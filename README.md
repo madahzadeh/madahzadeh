@@ -23,9 +23,9 @@ A dependency-free demonstration of release assurance for AI-assisted software de
 | Product | Product focus | Technology |
 | --- | --- | --- |
 | **VeriFire Release** | AI release-risk assessment, expert escalation, and auditable decisions | JavaScript, Node.js, CI |
-| **Relokit** | Post-relocation compliance and tax-residency day tracking for iOS | SwiftUI, SwiftData |
-| **ScopeLock** | Mobile change-order documentation and approval workflows | React Native, Expo, Next.js, Supabase |
-| **Armenia Driving Test** | Four-language theory practice and an SEO-first PWA | Flutter, Astro, Cloudflare |
+| **[Relokit](https://apps.apple.com/app/relokit-tax-residency-days/id6796342291)** | Post-relocation compliance and tax-residency day tracking for iOS | SwiftUI, SwiftData |
+| **[ScopeLock](https://apps.apple.com/us/app/scopelock/id6796974852)** | Mobile change-order documentation and approval workflows | React Native, Expo, Next.js, Supabase |
+| **[Armenia Driving Test](https://apps.apple.com/app/armenia-driving-test-theory/id6795817509)** | Four-language theory practice and an SEO-first PWA | Flutter, Astro, Cloudflare |
 | **Vardzo** | Verified multilingual long-term rental platform for Yerevan | PHP |
 | **Multi-brand WhatsApp AI** | Production multi-brand WhatsApp AI platform on Cloudflare | TypeScript, Cloudflare |
 | **Hamrah Armenia** | Multilingual mobile services with offline caching | Flutter, REST APIs |
