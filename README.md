@@ -16,7 +16,7 @@ I design and build practical digital products for founders and international bus
 
 ### [VeriFire Release](https://github.com/madahzadeh/verifirelease-demo)
 
-A dependency-free demonstration of release assurance for AI-assisted software development. It scores change risk, escalates sensitive changes to the right human expert, and produces an auditable release-attestation report. The repository includes deterministic tests, simulated pull-request scenarios, CI automation, security documentation, and English/Persian guides.
+A dependency-free demonstration of release assurance for AI-assisted software development. It scores change risk, escalates sensitive changes to the right human expert, and produces an auditable release-attestation report. The repository includes deterministic tests, simulated pull-request scenarios, CI automation, and security documentation.
 
 ## Selected products
 
@@ -31,16 +31,17 @@ A dependency-free demonstration of release assurance for AI-assisted software de
 | **Hamrah Armenia** | Multilingual mobile services with offline caching | Flutter, REST APIs |
 | **My Yerevan** | Four-language city companion for Yerevan | Flutter, REST APIs |
 
+Additional products — including Cattune, HayTalk, Armanestan, and HyeWay — are in final release stages on the App Store.
+
 Most production and client-specific repositories remain private because they contain proprietary workflows or production infrastructure. Public repositories are selected to make the architecture and engineering approach easy to inspect.
 
 ## How I work
 
 Clear scope, documented architecture, maintainable code, realistic milestones, and product decisions tied to business goals. I work across product strategy, implementation, integration, release readiness, and technical improvement.
 
-## Work with me
+## Hire me
 
 - [iEquity AI](https://iequity.co) — mobile products, AI automation, web architecture, and technical SEO
 - [Upwork](https://madahzadeh.com/upwork)
 - [LinkedIn company page](https://www.linkedin.com/company/iequity-co/)
 - [Business inquiries](mailto:info@iequity.co)
-
