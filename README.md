@@ -12,26 +12,35 @@ I design and build practical digital products for founders and international bus
 - **Web architecture:** WordPress, Next.js, SaaS interfaces, multilingual platforms, and PWAs
 - **Technical SEO:** crawlability, structured content, international SEO, performance, and scalable page architecture
 
+## Published App Store products
+
+**Eight products are currently live on the Apple App Store**, spanning travel, education, mobility, compliance, rentals, field operations, and consumer applications.
+
+| Product | Product focus |
+| --- | --- |
+| **[Armanestan](https://apps.apple.com/app/armanestan/id6801824712)** | Persian-first guide to travel, services, and daily life in Armenia |
+| **[HayTalk: Learn Armenian](https://apps.apple.com/app/haytalk-learn-armenian/id6801182380)** | Eastern Armenian learning and practical conversation for Persian speakers |
+| **[Vardzo Verified Rentals](https://apps.apple.com/app/vardzo-verified-rentals/id6798527388)** | Verified multilingual long-term rentals in Yerevan |
+| **[Relokit: Tax Residency Days](https://apps.apple.com/app/relokit-tax-residency-days/id6796342291)** | Tax-residency day tracking, permit dates, and deadline reminders |
+| **[Armenia Driving Test: Theory](https://apps.apple.com/app/armenia-driving-test-theory/id6795817509)** | Multilingual Armenian driving-theory preparation |
+| **[ScopeLock](https://apps.apple.com/app/scopelock/id6796974852)** | Mobile documentation and approval workflows for construction change orders |
+| **[HyeWay](https://apps.apple.com/app/hyeway/id6802007751)** | Armenia intercity routes and timetable information |
+| **[Cattune](https://apps.apple.com/app/cattune/id6801298882)** | Personalized cat-behavior guidance, routines, and progress tracking |
+
 ## Public engineering proof
 
 ### [VeriFire Release](https://github.com/madahzadeh/verifirelease-demo)
 
 A dependency-free demonstration of release assurance for AI-assisted software development. It scores change risk, escalates sensitive changes to the right human expert, and produces an auditable release-attestation report. The repository includes deterministic tests, simulated pull-request scenarios, CI automation, and security documentation.
 
-## Selected products
+## Additional product work
 
 | Product | Product focus | Technology |
 | --- | --- | --- |
 | **VeriFire Release** | AI release-risk assessment, expert escalation, and auditable decisions | JavaScript, Node.js, CI |
-| **[Relokit](https://apps.apple.com/app/relokit-tax-residency-days/id6796342291)** | Post-relocation compliance and tax-residency day tracking for iOS | SwiftUI, SwiftData |
-| **[ScopeLock](https://apps.apple.com/us/app/scopelock/id6796974852)** | Mobile change-order documentation and approval workflows | React Native, Expo, Next.js, Supabase |
-| **[Armenia Driving Test](https://apps.apple.com/app/armenia-driving-test-theory/id6795817509)** | Four-language theory practice and an SEO-first PWA | Flutter, Astro, Cloudflare |
-| **Vardzo** | Verified multilingual long-term rental platform for Yerevan | PHP |
 | **Multi-brand WhatsApp AI** | Production multi-brand WhatsApp AI platform on Cloudflare | TypeScript, Cloudflare |
 | **Hamrah Armenia** | Multilingual mobile services with offline caching | Flutter, REST APIs |
 | **My Yerevan** | Four-language city companion for Yerevan | Flutter, REST APIs |
-
-Additional products — including Cattune, HayTalk, Armanestan, and HyeWay — are in final release stages on the App Store.
 
 Most production and client-specific repositories remain private because they contain proprietary workflows or production infrastructure. Public repositories are selected to make the architecture and engineering approach easy to inspect.
 
