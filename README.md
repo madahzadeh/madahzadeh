@@ -32,6 +32,17 @@ I design and build practical digital products for founders and international bus
 ### [VeriFire Release](https://github.com/madahzadeh/verifirelease-demo)
 
 A dependency-free demonstration of release assurance for AI-assisted software development. It scores change risk, escalates sensitive changes to the right human expert, and produces an auditable release-attestation report. The repository includes deterministic tests, simulated pull-request scenarios, CI automation, and security documentation.
+### Open-source SEO tools
+
+Three zero-dependency Node.js CLIs, published on npm — install with `npx`, no setup:
+
+| Tool | What it does | Install |
+|------|--------------|---------|
+| **[hreflang-audit](https://github.com/madahzadeh/hreflang-audit)** [![npm](https://img.shields.io/npm/v/hreflang-audit)](https://www.npmjs.com/package/hreflang-audit) | Audits hreflang for international SEO: missing return links, invalid locale codes, canonical conflicts, broken alternates | `npx hreflang-audit <url>` |
+| **[schema-audit](https://github.com/madahzadeh/schema-audit)** [![npm](https://img.shields.io/npm/v/schema-audit)](https://www.npmjs.com/package/schema-audit) | Crawls a site and validates JSON-LD structured data for the common rich-result types, with fix hints and CI exit codes | `npx schema-audit <url>` |
+| **[llms-txt-kit](https://github.com/madahzadeh/llms-txt-kit)** [![npm](https://img.shields.io/npm/v/llms-txt-audit)](https://www.npmjs.com/package/llms-txt-audit) | Generates and validates `llms.txt` files (llmstxt.org) from a site crawl or XML sitemap | `npx llms-txt-audit <url>` |
+
+All three ship as both a CLI and a GitHub Action, with zero runtime dependencies.
 
 ## Additional product work
 
