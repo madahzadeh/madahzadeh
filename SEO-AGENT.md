@@ -17,6 +17,9 @@ generate one instead of validating:
 Add `--help` for options, `--json` for a machine-readable report.
 All three exit non-zero when errors are found, so they drop straight into CI.
 
+Each tool also ships as a GitHub Action — see the repo README for a ready-made
+workflow.
+
 ## What each one covers
 
 - **hreflang-audit** — international SEO: missing return links, invalid locale
