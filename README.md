@@ -1,8 +1,10 @@
 # Dr. Reza Madahzadeh
 
-**Mobile Product Architect · AI Automation Architect · Web Architecture · Technical SEO**
+**Founder, iEquity AI · Business Strategy & Digital Products · Mobile, Web & AI Automation**
 
-I design and build practical digital products for founders and international businesses—from native and cross-platform mobile apps to backend integrations, AI-enabled workflows, multilingual platforms, and performance-focused web systems.
+I help founders and experts turn complex decisions into focused business strategies, distinctive brands, and useful digital products. Based in Yerevan and working internationally, I connect strategy and product architecture with hands-on delivery through **[iEquity AI](https://iequity.co/)**.
+
+My work spans iOS and Android applications, custom web platforms, backend/API integrations, AI-enabled workflows, multilingual experiences, and technical SEO. My personal advisory work covers business strategy, brand positioning, and Armenia market entry: **[madahzadeh.com](https://madahzadeh.com/)**.
 
 ## Core capabilities
 
@@ -12,20 +14,29 @@ I design and build practical digital products for founders and international bus
 - **Web architecture:** WordPress, Next.js, SaaS interfaces, multilingual platforms, and PWAs
 - **Technical SEO:** crawlability, structured content, international SEO, performance, and scalable page architecture
 
-## Published App Store products
+## Published mobile products
 
-**Eight products are currently live on the Apple App Store**, spanning travel, education, mobility, compliance, rentals, field operations, and consumer applications.
+**10 apps on the App Store and 7 on Google Play**, across 11 distinct products. Six products are available on both platforms. Store availability checked on October 29, 2026.
 
-| Product | Product focus |
-| --- | --- |
-| **[Armanestan](https://apps.apple.com/app/armanestan/id6801824712)** | Persian-first guide to travel, services, and daily life in Armenia |
-| **[HayTalk: Learn Armenian](https://apps.apple.com/app/haytalk-learn-armenian/id6801182380)** | Eastern Armenian learning and practical conversation for Persian speakers |
-| **[Vardzo Verified Rentals](https://apps.apple.com/app/vardzo-verified-rentals/id6798527388)** | Verified multilingual long-term rentals in Yerevan |
-| **[Relokit: Tax Residency Days](https://apps.apple.com/app/relokit-tax-residency-days/id6796342291)** | Tax-residency day tracking, permit dates, and deadline reminders |
-| **[Armenia Driving Test: Theory](https://apps.apple.com/app/armenia-driving-test-theory/id6795817509)** | Multilingual Armenian driving-theory preparation |
-| **[ScopeLock](https://apps.apple.com/app/scopelock/id6796974852)** | Mobile documentation and approval workflows for construction change orders |
-| **[HyeWay](https://apps.apple.com/app/hyeway/id6802007751)** | Armenia intercity routes and timetable information |
-| **[Cattune](https://apps.apple.com/app/cattune/id6801298882)** | Personalized cat-behavior guidance, routines, and progress tracking |
+| Product | Product focus | App Store | Google Play |
+| --- | --- | --- | --- |
+| **Madahzadeh** | Persian-language AI decision companion using the Four Capitals framework: financial, reputational, time, and geographic capital | [iOS](https://apps.apple.com/us/app/madahzadeh/id6806851214) | — |
+| **Stido** | Family activities, a local journal, and educational guidance for parents | [iOS](https://apps.apple.com/us/app/stido/id6818495074) | [Android](https://play.google.com/store/apps/details?id=org.stido.stido) |
+| **Armanestan** | Persian-first guide to services, travel, and everyday life in Armenia | [iOS](https://apps.apple.com/us/app/armanestan/id6801824712) | [Android](https://play.google.com/store/apps/details?id=org.armanestan.app) |
+| **HayTalk: Learn Armenian** | Armenian language learning and practical conversation | [iOS](https://apps.apple.com/us/app/haytalk-learn-armenian/id6801182380) | [Android](https://play.google.com/store/apps/details?id=org.armanestan.haytalk) |
+| **Vardzo** | Multilingual long-term rental discovery in Yerevan | [iOS](https://apps.apple.com/us/app/vardzo/id6798527388) | [Android](https://play.google.com/store/apps/details?id=co.iequity.vardzo) |
+| **Relokit: Tax Residency Days** | Presence-day tracking, permit dates, and deadline reminders | [iOS](https://apps.apple.com/us/app/relokit-tax-residency-days/id6796342291) | [Android](https://play.google.com/store/apps/details?id=co.iequity.relokit) |
+| **Armenia Driving Test: Theory** | Multilingual Armenian driving-theory preparation | [iOS](https://apps.apple.com/us/app/armenia-driving-test-theory/id6795817509) | [Android](https://play.google.com/store/apps/details?id=co.iequity.armeniadriving) |
+| **ScopeLock** | Field documentation and approval workflows for construction change orders | [iOS](https://apps.apple.com/us/app/scopelock/id6796974852) | — |
+| **HyeWay** | Armenia intercity routes and timetable information | [iOS](https://apps.apple.com/us/app/hyeway/id6802007751) | — |
+| **Cattune** | Cat-behavior guidance, routines, and progress tracking | [iOS](https://apps.apple.com/us/app/cattune/id6801298882) | — |
+| **Forexco Desk** | Persian market-observation desk, journaling, and risk-planning tools; educational, with no trade execution | Coming soon | [Android](https://play.google.com/store/apps/details?id=pro.forexco.desk) |
+
+Apple listings are published under Seyed Reza Madahzadeh; the linked Android listings use the iEquity developer account. Platform availability and terms are specific to each product.
+
+### Strategy made tangible
+
+**Madahzadeh** brings my decision-making method into a practical AI-assisted product: clarify the question, separate facts from assumptions, consider four kinds of capital, and define a next step. It supports reflection and action tracking rather than making decisions for the user; it is not a substitute for professional financial, legal, or medical advice.
 
 ## Public engineering proof
 
@@ -59,9 +70,12 @@ Most production and client-specific repositories remain private because they con
 
 Clear scope, documented architecture, maintainable code, realistic milestones, and product decisions tied to business goals. I work across product strategy, implementation, integration, release readiness, and technical improvement.
 
-## Hire me
+## Work with me
 
-- [iEquity AI](https://iequity.co) — mobile products, AI automation, web architecture, and technical SEO
+- [Personal website](https://madahzadeh.com/) — business strategy, brand positioning, Armenia market entry, and selected work
+- [iEquity AI](https://iequity.co/) — mobile apps, custom software, backend integrations, AI automation, WordPress, and technical SEO
+- [LinkedIn](https://www.linkedin.com/in/madahzadeh/) — professional updates and conversations
 - [Upwork](https://madahzadeh.com/upwork)
 - [LinkedIn company page](https://www.linkedin.com/company/iequity-co/)
 - [Business inquiries](mailto:info@iequity.co)
+
