@@ -16,7 +16,7 @@ My work spans iOS and Android applications, custom web platforms, backend/API in
 
 ## Published mobile products
 
-**10 apps on the App Store and 7 on Google Play**, across 11 distinct products. Six products are available on both platforms. Store availability checked on October 29, 2026.
+Published products across the App Store and Google Play. Forexco Desk is now also available on iPhone and iPad; its App Store release was verified on November 12, 2026.
 
 | Product | Product focus | App Store | Google Play |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ My work spans iOS and Android applications, custom web platforms, backend/API in
 | **ScopeLock** | Field documentation and approval workflows for construction change orders | [iOS](https://apps.apple.com/us/app/scopelock/id6796974852) | — |
 | **HyeWay** | Armenia intercity routes and timetable information | [iOS](https://apps.apple.com/us/app/hyeway/id6802007751) | — |
 | **Cattune** | Cat-behavior guidance, routines, and progress tracking | [iOS](https://apps.apple.com/us/app/cattune/id6801298882) | — |
-| **Forexco Desk** | Persian market-observation desk, journaling, and risk-planning tools; educational, with no trade execution | Coming soon | [Android](https://play.google.com/store/apps/details?id=pro.forexco.desk) |
+| **Forexco Desk** | Persian market-observation desk, journaling, and risk-planning tools; educational, with no trade execution | [iPhone & iPad](https://apps.apple.com/app/forexco-desk/id6822200312) | [Android](https://play.google.com/store/apps/details?id=pro.forexco.desk) |
 
 Apple listings are published under Seyed Reza Madahzadeh; the linked Android listings use the iEquity developer account. Platform availability and terms are specific to each product.
 
@@ -78,4 +78,5 @@ Clear scope, documented architecture, maintainable code, realistic milestones, a
 - [Upwork](https://madahzadeh.com/upwork)
 - [LinkedIn company page](https://www.linkedin.com/company/iequity-co/)
 - [Business inquiries](mailto:info@iequity.co)
+
 
