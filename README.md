@@ -61,7 +61,6 @@ All three ship as both a CLI and a GitHub Action, with zero runtime dependencies
 | --- | --- | --- |
 | **VeriFire Release** | AI release-risk assessment, expert escalation, and auditable decisions | JavaScript, Node.js, CI |
 | **Multi-brand WhatsApp AI** | Production multi-brand WhatsApp AI platform on Cloudflare | TypeScript, Cloudflare |
-| **Hamrah Armenia** | Multilingual mobile services with offline caching | Flutter, REST APIs |
 | **My Yerevan** | Four-language city companion for Yerevan | Flutter, REST APIs |
 
 Most production and client-specific repositories remain private because they contain proprietary workflows or production infrastructure. Public repositories are selected to make the architecture and engineering approach easy to inspect.
@@ -72,7 +71,8 @@ Clear scope, documented architecture, maintainable code, realistic milestones, a
 
 ## Work with me
 
-- [Personal website](https://madahzadeh.com/) — business strategy, brand positioning, Armenia market entry, and selected work
+- [Personal website — English](https://madahzadeh.com/) — business strategy, brand positioning, Armenia market entry, and selected work
+- [Personal website — فارسی](https://madahzadeh.ir/) — Persian-language advisory and published app portfolio
 - [iEquity AI](https://iequity.co/) — mobile apps, custom software, backend integrations, AI automation, WordPress, and technical SEO
 - [LinkedIn](https://www.linkedin.com/in/madahzadeh/) — professional updates and conversations
 - [Upwork](https://madahzadeh.com/upwork)
