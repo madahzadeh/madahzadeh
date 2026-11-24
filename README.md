@@ -20,6 +20,7 @@ Published products across the App Store and Google Play. Forexco Desk is now als
 
 | Product | Product focus | App Store | Google Play |
 | --- | --- | --- | --- |
+| **[LUNVIQA](https://lunviqa.com/)** | Personal stylist for building outfits around a favourite garment, an occasion and the clothes already in your wardrobe | [iOS](https://apps.apple.com/app/lunviqa/id6836941937) | — |
 | **Madahzadeh** | Persian-language AI decision companion using the Four Capitals framework: financial, reputational, time, and geographic capital | [iOS](https://apps.apple.com/us/app/madahzadeh/id6806851214) | — |
 | **Stido** | Family activities, a local journal, and educational guidance for parents | [iOS](https://apps.apple.com/us/app/stido/id6818495074) | [Android](https://play.google.com/store/apps/details?id=org.stido.stido) |
 | **Armanestan** | Persian-first guide to services, travel, and everyday life in Armenia | [iOS](https://apps.apple.com/us/app/armanestan/id6801824712) | [Android](https://play.google.com/store/apps/details?id=org.armanestan.app) |
